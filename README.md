@@ -1,4 +1,4 @@
-# kiva-homework-part2
+# Spring-Boot-Kiva-Rest-APIs
 
 1.Retrieve a list of funded loans using "http://localhost:8080/getAllLoans".
 
