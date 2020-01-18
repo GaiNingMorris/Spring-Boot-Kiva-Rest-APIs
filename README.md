@@ -1,4 +1,4 @@
-# Spring-Boot-Kiva-Rest-APIs
+# Spring-Boot-Rest-APIs
 
 1.Retrieve a list of funded loans using "http://localhost:8080/getAllLoans".
 
